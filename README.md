@@ -1,4 +1,4 @@
-# Overcoming Regional Bias in Automated Age Estimation with Brazilian Panoramic Radiographs - Code
+# Quantifying and mitigating cross-site domain shift in AI-based dental age estimation: evidence from Brazilian panoramic radiographs - Code
 
 This repository contains the source code for machine learning models developed to estimate human age based on panoramic radiographs of Brazilian patients. It includes scripts for both training and evaluation.
 
